@@ -1,16 +1,67 @@
-<<<<<<< HEAD
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Known Issues](#known-issues)
+- [License](#license)
+- [Contact](#contact)
 
-Currently, two official plugins are available:
+## Project Overview
+The Weather App is a user-friendly application that provides real-time weather data, forecasts, and alerts for locations worldwide using reliable weather APIs. It aims to give quick and accurate weather updates through an intuitive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Current weather conditions with temperature, humidity, and wind speed
+- 7-day weather forecast
+- Search weather by city or location
+- Responsive design for desktop and mobile devices
+- Optional notifications for weather alerts (if implemented)
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React (or your framework)
+- OpenWeatherMap API (or any other weather API)
+- CSS/Styled Components for styling
+- Node.js/Express for backend (if applicable)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# weather-app
->>>>>>> 36bc182bc4ed9f6e5b465489fea3a2f9e705d9eb
+## Installation
+1. Clone the repository:
+git clone https://github.com/yourusername/weather-app.git
+
+text
+2. Navigate to the project directory:
+cd weather-app
+
+text
+3. Install dependencies:
+npm install
+
+text
+4. Start the development server:
+npm start
+
+text
+
+## Usage
+After starting the app, open your browser and go to `http://localhost:3000`. You can search for the weather by entering a city name or enable location services to get local weather updates. The dashboard will display current conditions and a forecast.
+
+## Contributing
+Contributions are welcome! To contribute:
+- Fork the repository
+- Create a new branch (`git checkout -b feature-name`)
+- Commit your changes (`git commit -m 'Add feature'`)
+- Push the branch (`git push origin feature-name`)
+- Open a pull request
+
+## Known Issues
+- List any bugs or limitations here
+- Workarounds or planned fixes can be mentioned
+
+## License
+This project is licensed under the MIT License. See LICENSE file for details.
+
+## Contact
+For questions or feedback, contact [shaw.rittika15@gmail.com].
