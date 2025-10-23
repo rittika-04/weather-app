@@ -22,14 +22,14 @@ The Weather App is a user-friendly application that provides real-time weather d
 - Optional notifications for weather alerts (if implemented)
 
 ## Technologies Used
-- React (or your framework)
-- OpenWeatherMap API (or any other weather API)
+- React 
+- OpenWeatherMap API 
 - CSS/Styled Components for styling
-- Node.js/Express for backend (if applicable)
+- Node.js/Express for backend 
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/rittika-04/weather-app.git
 
 text
 2. Navigate to the project directory:
@@ -51,9 +51,9 @@ After starting the app, open your browser and go to `http://localhost:3000`. You
 ## Contributing
 Contributions are welcome! To contribute:
 - Fork the repository
-- Create a new branch (`git checkout -b feature-name`)
-- Commit your changes (`git commit -m 'Add feature'`)
-- Push the branch (`git push origin feature-name`)
+- Create a new branch 
+- Commit your changes 
+- Push the branch 
 - Open a pull request
 
 ## Known Issues
