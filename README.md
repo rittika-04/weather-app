@@ -31,19 +31,15 @@ The Weather App is a user-friendly application that provides real-time weather d
 1. Clone the repository:
 git clone https://github.com/rittika-04/weather-app.git
 
-text
 2. Navigate to the project directory:
 cd weather-app
 
-text
 3. Install dependencies:
 npm install
 
-text
 4. Start the development server:
 npm start
 
-text
 
 ## Usage
 After starting the app, open your browser and go to `http://localhost:3000`. You can search for the weather by entering a city name or enable location services to get local weather updates. The dashboard will display current conditions and a forecast.
